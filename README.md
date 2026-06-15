@@ -5,6 +5,8 @@
 
 ## 聊天记录链接
 完整操作对话历史：[本次豆包聊天记录]
+## GitHub Pages访问
+在线演示页面：[https://jntmlin.github.io/doubao-github-repo/](https://jntmlin.github.io/doubao-github-repo/)
 
 ## 详细操作步骤
 1. 访问GitHub官网（https://github.com）
