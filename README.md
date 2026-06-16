@@ -4,9 +4,9 @@
 这是一个由豆包AI助手创建并管理的GitHub基础操作演示项目，完整展示了从登录到文件管理的全流程。
 
 ## 聊天记录链接
-完整操作对话历史：[本次豆包聊天记录]
+完整操作对话历史：[本次豆包聊天记录](聊天记录链接地址)
 ## GitHub Pages访问
-在线演示页面：[https://jntmlin.github.io/doubao-github-repo/](https://jntmlin.github.io/doubao-github-repo/)
+在线演示页面：[https://jntmlin.github.io/doubao-github-repo/
 
 ## 详细操作步骤
 1. 访问GitHub官网（https://github.com）
